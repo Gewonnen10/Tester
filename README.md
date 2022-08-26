@@ -1,5 +1,5 @@
 # Tester
-лабиринт с 3мя персонажами
+лабиринт с 4мя персонажами
 
 ![пчела](https://user-images.githubusercontent.com/112150236/186828373-fe2ecd16-8bc1-4eae-889e-c572fbf7495e.png)
 пчела(враг 1)
@@ -13,3 +13,9 @@
 банан(фоновое изображение)
 ![говно](https://user-images.githubusercontent.com/112150236/186828636-fb16c6b2-ac44-402f-abbf-2f7dbc72b543.png)
 говно(пуля)
+
+
+
+
+Enemy
+(класс врага)
